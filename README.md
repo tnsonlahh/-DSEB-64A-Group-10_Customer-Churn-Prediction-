@@ -10,5 +10,5 @@
 
  (In consideration) Add Online Behavior: Incorporate more data from customer behavior on online platforms such as number of visits, time on site, and interaction with content. This behavioral data will help increase the accuracy of churn prediction.
  
- (In consideration) Combine with Sentiment Analysis: Integrate sentiment analysis from customer reviews or social media feedback to improve predictions. if you want to follow NLP
+ (In consideration) Combine with Sentiment Analysis: Integrate sentiment analysis from customer reviews or social media feedback to improve predictions. 
 - For example: Use a sentiment analysis model (VnCoreNLP or transformers-based models like BERT) to assess customer satisfaction and sentiment, then integrate it into the churn prediction model.
