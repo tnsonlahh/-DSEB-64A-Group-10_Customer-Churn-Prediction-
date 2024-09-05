@@ -1,7 +1,8 @@
 # -DSEB-64A-Group-10_Customer-Churn-Prediction-
  Background: Customer churn prediction helps businesses identify customers who are at risk of churning and implement timely retention strategies.
+ 
  Algorithms: Decision Tree
- Variables can include: service usage time, number of complaints, satisfaction level.
+
  Steps to implement:
  - Collect and clean customer data.
  - Create feature variables related to customer behavior.
