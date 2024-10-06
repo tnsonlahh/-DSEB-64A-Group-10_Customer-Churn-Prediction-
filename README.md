@@ -8,7 +8,8 @@
  - Create feature variables related to customer behavior.
  - Train the Decision Tree model to classify customers who are likely to churn.
 
- (In consideration) Add Online Behavior: Incorporate more data from customer behavior on online platforms such as number of visits, time on site, and interaction with content. This behavioral data will help increase the accuracy of churn prediction.
+ (In consideration) Using feature engineering and ensemble learning tech to optimize model
+
  
  (In consideration) Using SMOTE to deal with data imbalance, using SHAP for further analyse
 
