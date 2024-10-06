@@ -11,7 +11,7 @@
  (In consideration) Add Online Behavior: Incorporate more data from customer behavior on online platforms such as number of visits, time on site, and interaction with content. This behavioral data will help increase the accuracy of churn prediction.
  
  (In consideration) Using SMOTE to deal with data imbalance, using SHAP for further analyse
+
+ (In consideration) Using SHAP (SHapley Additive Explanations) to explain the impact of each feature on the model. Bạn có thể trình bày một phân tích chi tiết các tính năng có tác động cao nhất đến khả năng churn của khách hàng.
  
- (In consideration) Combine with Sentiment Analysis: Integrate sentiment analysis from customer reviews or social media feedback to improve predictions. 
- 
-- For example: Use a sentiment analysis model (VnCoreNLP or transformers-based models like BERT) to assess customer satisfaction and sentiment, then integrate it into the churn prediction model.
+
